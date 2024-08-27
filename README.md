@@ -4,7 +4,8 @@ The information includes: <br>
 1) Temperature (°c) <br>
 2) Weather condition (rainy, drizzle, sunny etc) <br>
 3) Wind speed (km/h) <br>
-4) Humidity (%) <br>You just have to type the correct  name of the required place and it provides you the related information of specified place. <br>
+4) Humidity (%) <br>
+You just have to type the correct  name of the required place and it provides you the related information of specified place. <br>
 Invalid names are not allowed so then it do not provide you any information. <br>
 In this project there is an API used "Current Weather Data" from website openweathermap.org <br>
 API link: https://openweathermap.org/api
